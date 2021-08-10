@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/bankierubybank.github.io/'
+    publicPath: '/'
   }
