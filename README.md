@@ -1,5 +1,7 @@
 # bankierubybank.github.io
 
+Used Vuetify 3 Alpha
+
 ## Project setup
 ```
 npm install
